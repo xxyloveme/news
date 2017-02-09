@@ -1,0 +1,34 @@
+<ion-view view-title="首页">
+	<ion-content>
+		<ion-slide-box auto-play="true" does-continue="true">
+			<ion-slide>
+			  	<img src="img/1.jpg" />
+			</ion-slide>
+			<ion-slide>
+			    <img src="img/2.jpg" />
+			</ion-slide>
+			<ion-slide>
+			    <img src="img/3.jpg" />
+			</ion-slide>
+			<ion-slide>
+			    <img src="img/4.jpg" />
+			</ion-slide>
+		</ion-slide-box>
+		<div class="row">
+		  	<div class="col col-50">
+		  		<img src="img/1.png" />
+		  	</div>
+		  	<div class="col col-50">
+		  		<img src="img/2.png" />
+		  	</div>
+		</div>
+		<h3><span class="span"></span>热门推荐</h3>
+		<div class="list">
+		    <a class="item item-thumbnail-left" ng-repeat="item in dataList" href="#">
+		      <img ng-src="{{item.pic}}">
+		      <h2 class="content">{{item.title}}</h2>
+		    </a>		
+		</div>
+		
+	</ion-content>
+</ion-view>

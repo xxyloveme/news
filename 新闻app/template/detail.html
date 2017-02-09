@@ -1,0 +1,17 @@
+<ion-view view-title="文章详情">
+	<ion-content ng-class="{'biggest':isBiggest,'big':isBig,'middle':isMiddle,'small':isSmall}">
+		<div ng-bind-html="detailList.data" ng-class="{'red':isRed,'green':isGreen,'blue':isBlue,'purple':isPurple}"></div>
+	</ion-content>
+	<div class="bar bar-footer">
+	  	<div class="tabs tabs-icon-left">
+			<a class="tab-item col-50" ng-click="font()">
+			    <i class="icon ion-android-create"></i>
+			    字体
+			</a>
+			<a class="tab-item col-50" ng-click="bgColor()">
+			   	<i class="icon ion-ios-lightbulb"></i>
+			    背景色
+			</a>
+		</div>
+	</div>
+</ion-view>

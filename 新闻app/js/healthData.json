@@ -1,0 +1,122 @@
+[
+	{
+		"name":"健康资讯",
+		"ifActive":true,
+		"data":[{
+			"pic":"img/3.png",
+			"message":"尿毒症可引发肾性脑病 尿毒症的并发症"
+		},
+		{
+			"pic":"img/4.png",
+			"message":"尿毒症可引发肾性脑病 尿毒症的并发症"
+		},
+		{
+			"pic":"img/5.png",
+			"message":"尿毒症可引发肾性脑病 尿毒症的并发症"
+		},
+		{
+			"pic":"img/6.png",
+			"message":"尿毒症可引发肾性脑病 尿毒症的并发症"
+		},
+		{
+			"pic":"img/3.png",
+			"message":"尿毒症可引发肾性脑病 尿毒症的并发症"
+		},
+		{
+			"pic":"img/5.png",
+			"message":"尿毒症可引发肾性脑病 尿毒症的并发症"
+		}
+		]
+
+	},
+	{
+		"name":"保健资讯",
+		"ifActive":false,
+		"data":[{
+			"pic":"img/4.png",
+			"message":"尿毒症可引发肾性脑病 尿毒症的并发症"
+		},
+		{
+			"pic":"img/6.png",
+			"message":"尿毒症可引发肾性脑病 尿毒症的并发症"
+		},
+		{
+			"pic":"img/5.png",
+			"message":"尿毒症可引发肾性脑病 尿毒症的并发症"
+		},
+		{
+			"pic":"img/4.png",
+			"message":"尿毒症可引发肾性脑病 尿毒症的并发症"
+		},
+		{
+			"pic":"img/3.png",
+			"message":"尿毒症可引发肾性脑病 尿毒症的并发症"
+		},
+		{
+			"pic":"img/5.png",
+			"message":"尿毒症可引发肾性脑病 尿毒症的并发症"
+		}
+		]
+
+	},
+	{
+		"name":"饮食保健",
+		"ifActive":false,
+		"data":[{
+			"pic":"img/3.png",
+			"message":"尿毒症可引发肾性脑病 尿毒症的并发症"
+		},
+		{
+			"pic":"img/6.png",
+			"message":"尿毒症可引发肾性脑病 尿毒症的并发症"
+		},
+		{
+			"pic":"img/5.png",
+			"message":"尿毒症可引发肾性脑病 尿毒症的并发症"
+		},
+		{
+			"pic":"img/3.png",
+			"message":"尿毒症可引发肾性脑病 尿毒症的并发症"
+		},
+		{
+			"pic":"img/4.png",
+			"message":"尿毒症可引发肾性脑病 尿毒症的并发症"
+		},
+		{
+			"pic":"img/5.png",
+			"message":"尿毒症可引发肾性脑病 尿毒症的并发症"
+		}
+		]
+
+	},
+	{
+		"name":"小验方",
+		"ifActive":false,
+		"data":[{
+			"pic":"img/4.png",
+			"message":"尿毒症可引发肾性脑病 尿毒症的并发症"
+		},
+		{
+			"pic":"img/5.png",
+			"message":"尿毒症可引发肾性脑病 尿毒症的并发症"
+		},
+		{
+			"pic":"img/6.png",
+			"message":"尿毒症可引发肾性脑病 尿毒症的并发症"
+		},
+		{
+			"pic":"img/5.png",
+			"message":"尿毒症可引发肾性脑病 尿毒症的并发症"
+		},
+		{
+			"pic":"img/3.png",
+			"message":"尿毒症可引发肾性脑病 尿毒症的并发症"
+		},
+		{
+			"pic":"img/4.png",
+			"message":"尿毒症可引发肾性脑病 尿毒症的并发症"
+		}
+		]
+
+	}
+]

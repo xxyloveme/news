@@ -1,0 +1,15 @@
+<ion-view>
+	<ion-content>
+		<form name="loginForm">
+			<input type="tel" ng-pattern="^1[3|5|8][0-9]{9}$/" name="telphone"/>
+			<div class="item item-input-inset">
+			    <label class="item-input-wrapper">
+			      <input type="number" placeholder="验证码">
+			    </label>
+			    <button class="button button-positive"></button>
+			  </div>
+			  <button class="button" ng-click="">{{numbers}}</button>
+		</form>
+		
+	</ion-content>
+</ion-view>
